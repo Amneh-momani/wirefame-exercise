@@ -2,7 +2,9 @@
     box-sizing: border-box;
   }
 
-
+body{
+    background: whitesmoke;
+}
   header{
     margin: 30px 50px;
     text-align: center;
